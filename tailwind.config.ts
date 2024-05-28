@@ -18,6 +18,10 @@ const config: Config = {
           600: '#2F6FEB',
         },
       },
+      fontFamily: {
+        poppins: ['var(--poppins-font)'],
+        merriweather: ['var(--merriweather-font)'],
+      },
     },
     keyframes: {
       shimmer: {
